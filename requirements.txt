@@ -1,0 +1,5 @@
+numpy
+pandas 
+mmatplotlib
+seaborn
+xgboost
